@@ -48,7 +48,7 @@ section-1 {
 
 .section-1-icons {
   transform: translate(-50%, -50%) scale(1);
-  transition: transform .3s;
+  transition: transform .3s .3s;
 }
 
 /*End of section 1*/
