@@ -41,7 +41,8 @@ section-1 {
   font-size: 35rem;
   color: #a79a2d;
   position: absolute;
-  transform: translate();
+  transform: translate(-50%, -50%) scale(0);
+  text-shadow: .2rem .2rem .2rem black;
 }
 
 /*End of section 1*/
