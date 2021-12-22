@@ -36,4 +36,9 @@ section-1 {
     letter-spacing: 0.5rem;
     text-shadow: .3rem 0.3rem 0.3rem #000;
 }
+.section-1-icon{
+    font-size: 35rem;
+    color: #a79a2d;
+    position: absolute;
+}
 /*End of section 1*/
